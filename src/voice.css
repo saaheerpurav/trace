@@ -1,0 +1,2 @@
+.avatar-card.speaking .halo{animation:voice-halo 1.15s ease-in-out infinite}.avatar-card.speaking .face b{animation:avatar-talk .32s ease-in-out infinite alternate}.prompt{min-height:90px}.prompt h2{margin-bottom:0}
+@keyframes voice-halo{50%{transform:translate(-50%,-50%) scale(1.08);border-color:#cef36d99;box-shadow:0 0 85px #cef36d35}}@keyframes avatar-talk{from{height:6px;transform:scaleX(.85)}to{height:12px;transform:scaleX(1.15)}}
